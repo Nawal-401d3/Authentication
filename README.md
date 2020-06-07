@@ -1,4 +1,1 @@
 # Authentication
-
-
-## Lab 11
